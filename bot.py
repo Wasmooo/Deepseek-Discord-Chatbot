@@ -104,7 +104,7 @@ async def on_message(message):
         else:
             reply = f"Error: {response.status_code} - Unable to contact DeepSeek API."
 
-        await message.channel.send(reply)
+        await message.reply(reply)
 
     await bot.process_commands(message)
 
