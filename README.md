@@ -1,6 +1,10 @@
 Discord Chat Bot that uses Deepseek.
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)
+<div id="badges">
+  <a href="[https://x.com/yesttd]">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 Setting custom personalities for different users is possible.
 The default prompt of the bot is always used, adding custom personalities gives it info about a specific user.
