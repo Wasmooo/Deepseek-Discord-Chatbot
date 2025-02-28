@@ -1,6 +1,6 @@
 Discord Chat Bot that uses Deepseek.
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fx.com%2Fyesttd)
 
 
 
