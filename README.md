@@ -1,7 +1,8 @@
 Discord Chat Bot that uses Deepseek.
 
-![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)
-wasmooooo on discord
+![paypal.me/waseemkurabi](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![[Discord](https://discordapp.com/users/1274480796547289222)](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![[X](https://x.com/yesttd)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 Setting custom personalities for different users is possible.
 The default prompt of the bot is always used, adding custom personalities gives it info about a specific user.
