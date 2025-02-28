@@ -18,9 +18,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 PERSONALITY_FILE = "user_personalities.json"
 
-DEFAULT_PERSONALITY = (
- # put the default personality here in place of this.(double quotes before and after)
-)
+DEFAULT_PERSONALITY = ()  # put the default personality here (double quotes before and after)
 
 # Load stored personalities
 def load_personalities():
