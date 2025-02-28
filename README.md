@@ -7,7 +7,7 @@ Discord Chat Bot that uses Deepseek.
 
 Setting custom personalities for different users is possible.
 The default prompt of the bot is always used, adding custom personalities gives it info about a specific user.
-
+needs alot of work, but it functions
 
 # **Instructions**
 
@@ -33,4 +33,4 @@ put bot and api token in the .env
 all other manually entered stuff is shown in bot.py
 to set and remove personalities for specific people use the /setpersonalities command and /removepersonalities
 
-needs alot of work, but it functions
+
