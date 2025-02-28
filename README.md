@@ -1,6 +1,7 @@
 Discord Chat Bot that uses Deepseek.
 
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fx.com%2Fyesttd)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyesttd)](https://x.com/yesttd)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://paypal.me/waseemkurabi)
 
 
 
